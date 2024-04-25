@@ -1,0 +1,35 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ IDE
+.idea
+*.iws
+*.iml
+*.ipr
+
+# MacOS + other
+.DS_Store
+.vscode
+
+# NodeJS
+node_modules/
+
+# Certificates
+/src/main/resources/certs/*
+
+#App config
+**/application-default.properties
